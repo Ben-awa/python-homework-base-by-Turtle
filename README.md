@@ -9,5 +9,7 @@
 
 如果要修改代码的话，建议把中间那些反复调用的代码写成函数
 
-# 作图见tower.png
+# 图片如下
+![image](tower.png)
 # 代码见the Eiffel Tower.py
+
